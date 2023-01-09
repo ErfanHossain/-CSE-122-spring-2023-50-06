@@ -3,15 +3,17 @@
 
 This is an OOP lab repository
 
-Name-Erfan Hossain
+Institute:- Bangladesh University of Business and Technology
 
-Student ID-22234103062
+Name:-Erfan Hossain
 
-Email- erfanhossain830@gmail.com
+Student ID:-22234103062
 
-Section-06
+Email:- erfanhossain830@gmail.com
 
-Intake-50
+Section:-06
+
+Intake:-50
 
 Skills: HTML / CSS/C/C++
 
