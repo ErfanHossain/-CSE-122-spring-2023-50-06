@@ -1,7 +1,17 @@
 ### Hi there 👋, I'm Erfan Hossain
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHs7k4dJYFGxzOHhAtpQgFOTj0DqsfK9mbJw&usqp=CAU)
 
-I'm Erfan Hossain.I'm studying Bachalor's in CSE at Bangladesh University of Business and Technology.I like to solve critical problem
+This is an OOP lab repository
+
+Name-Erfan Hossain
+
+Student ID-22234103062
+
+Email- erfanhossain830@gmail.com
+
+Section-06
+
+Intake-50
 
 Skills: HTML / CSS/C/C++
 
