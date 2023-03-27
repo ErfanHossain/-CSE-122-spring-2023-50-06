@@ -1,3 +1,8 @@
+/*
+codeforce problem::677A
+problem name::Vanya and Fence
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
